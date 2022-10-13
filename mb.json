@@ -1,0 +1,261 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "kota": "Jakarta Selatan ",
+      "kecamatan": 10 ,
+      "kelurahan": 65,
+      "jumlah": 2.234,
+      "image": "https://1.bp.blogspot.com/-iqex8LKPsgo/WlHKbGvDHXI/AAAAAAAAA8U/J_havVgkC-EBrTY7OA0WVKQ2iEdEd0P7wCLcBGAs/s1600/Daftar-Perusahaan-atau-PT-Dengan-Gaji-Besar-di-Jakarta.png"
+    },
+    {
+      "id": 1,
+      "kota": "Jakarta Utara ",
+      "kecamatan": 6 ,
+      "kelurahan": 32 ,
+      "jumlah": 1.785,
+      "image": "https://1.bp.blogspot.com/-iqex8LKPsgo/WlHKbGvDHXI/AAAAAAAAA8U/J_havVgkC-EBrTY7OA0WVKQ2iEdEd0P7wCLcBGAs/s1600/Daftar-Perusahaan-atau-PT-Dengan-Gaji-Besar-di-Jakarta.png"
+    },
+    {
+      "id": 2,
+      "kota": "Jakarta Timur ",
+      "kecamatan": 10 ,
+      "kelurahan": 65 ,
+      "jumlah": 3.056,
+      "image": "https://1.bp.blogspot.com/-iqex8LKPsgo/WlHKbGvDHXI/AAAAAAAAA8U/J_havVgkC-EBrTY7OA0WVKQ2iEdEd0P7wCLcBGAs/s1600/Daftar-Perusahaan-atau-PT-Dengan-Gaji-Besar-di-Jakarta.png"
+      
+    },
+    {
+      "id": 3,
+      "kota": "Jakarta Barat ",
+      "kecamatan": 8 ,
+      "kelurahan": 56 ,
+      "jumlah": 2.440,
+      "image": "https://1.bp.blogspot.com/-iqex8LKPsgo/WlHKbGvDHXI/AAAAAAAAA8U/J_havVgkC-EBrTY7OA0WVKQ2iEdEd0P7wCLcBGAs/s1600/Daftar-Perusahaan-atau-PT-Dengan-Gaji-Besar-di-Jakarta.png"
+    },
+    {
+      "id": 4,
+      "kota": "Jakarta Pusat ",
+      "kecamatan": 8 ,
+      "kelurahan": 44 ,
+      "jumlah": 1.066,
+      "image": "https://1.bp.blogspot.com/-iqex8LKPsgo/WlHKbGvDHXI/AAAAAAAAA8U/J_havVgkC-EBrTY7OA0WVKQ2iEdEd0P7wCLcBGAs/s1600/Daftar-Perusahaan-atau-PT-Dengan-Gaji-Besar-di-Jakarta.png"
+    },
+    {
+      "id": 5,
+      "kota": "Kepulauan Seribu ",
+      "kecamatan": 2 ,
+      "kelurahan": 6 ,
+      "jumlah": 28,
+      "image": "http://pesonawisataindonesia.com/wp-content/uploads/2016/06/Wonderful-kepulauan-Seribu-Jakarta-Indonesi.jpg"
+    }
+  ],
+  "jabars": [
+    {
+      "id":0,
+      "kota": "Bandung",
+      "jumlah": "5.427.068", 
+      "kecamatan": 40 ,
+      "kelurahan": 19 ,
+      "image": "https://materipti.files.wordpress.com/2012/03/jawa-brt.gif"
+    },
+    {
+     "id":1,
+     "kota": "Bekasi",
+     "jumlah": "3.113.071",
+     "kecamatan": 23 ,
+     "kelurahan": 7 ,
+     "image": "https://materipti.files.wordpress.com/2012/03/jawa-brt.gif"
+    },
+    {
+      "id":2,
+     "kota": "Sukabumi",
+     "jumlah": "2.725.450",
+     "kecamatan": 47 ,
+     "kelurahan": 5 ,
+     "image": "https://materipti.files.wordpress.com/2012/03/jawa-brt.gif"
+    },
+    {
+      "id":3,
+     "kota": "Garut",
+     "jumlah": "2.585.607",
+     "kecamatan": 42 ,
+     "kelurahan": 21 ,
+     "image": "https://materipti.files.wordpress.com/2012/03/jawa-brt.gif"
+    },
+    {
+      "id":4,
+      "kota": "Bekasi",
+      "jumlah": "2.543.676",
+      "kecamatan": 12 ,
+      "kelurahan": 56 ,
+      "image": "https://materipti.files.wordpress.com/2012/03/jawa-brt.gif"
+    },
+    {
+      "id":5,
+      "kota": "Cianjur",
+      "jumlah": "2.477.560",
+      "kecamatan": 32 ,
+      "kelurahan": 6 ,
+      "image": "https://materipti.files.wordpress.com/2012/03/jawa-brt.gif" 
+    }
+  ],
+  "jatengs": [
+    {
+      "id":0 ,
+      "kota": "Pati",
+      "jumlah": "1.324.188",
+      "kecamatan": 21 ,
+      "kelurahan": 5 ,
+      "image": "http://4.bp.blogspot.com/-kF7h5SP1a6E/TyvyML5R8hI/AAAAAAAAExI/Q7amp692MZQ/s1600/LOGO+KABUPATEN+PATI.png"
+    },
+    {
+      "id":1 ,
+      "kota": "Kudus",
+      "jumlah": "849.184",
+      "kecamatan": 9 ,
+      "kelurahan": 9 ,
+      "image": "https://belajargiat.id/wp-content/uploads/2019/08/logo-iain-kudus.jpg"
+    },
+    {
+      "id":2 ,
+      "kota": "Pemalang",
+      "jumlah": "1.471.489",
+      "kecamatan": 14 ,
+      "kelurahan": 11 ,
+      "image": "http://4.bp.blogspot.com/-TaU6dUanWIs/Tyv012JoD3I/AAAAAAAAExY/nvO0-7J7TGg/s1600/LOGO+KABUPATEN+PEMALANG.png"
+    },
+    {
+      "id":3 ,
+      "kota": "Kebumen",
+      "jumlah": "1.350.438",
+      "kecamatan": 26 ,
+      "kelurahan": 11 ,
+      "image": "http://2.bp.blogspot.com/-8hBGmhfs2c8/TyvwYSrWyiI/AAAAAAAAEwg/jvs87OWZtBA/s1600/LOGO+KABUPATEN+KEBUMEN.png"
+    },
+    {
+      "id":4 ,
+      "kota": "Semarang",
+      "jumlah": "1.053.094",
+      "kecamatan": 19 ,
+      "kelurahan": 27 ,
+      "image": "http://4.bp.blogspot.com/-HhTQUVsK4Po/Tyv3-LMoACI/AAAAAAAAEzA/qXKn9MD9pCY/s1600/LOGO+KOTA+SEMARANG.png"
+    },
+    {
+      "id":5 ,
+      "kota": "Brebes",
+      "jumlah": "1.978.759",
+      "kecamatan": 17 ,
+      "kelurahan": 5 ,
+      "image": "https://4.bp.blogspot.com/-0bo6YBI3mzE/VIhS1k9xcKI/AAAAAAAABZA/MvDd5Q3TXyw/s1600/polres%2Bbrebes.jpg"
+    }
+  ],
+  "jatims": [
+    {
+      "id":0 ,
+      "kota": "Bojonegoro",
+      "jumlah": "1.708.114",
+      "kecamatan": 25 ,
+      "kelurahan": 26 ,
+      "image": "https://i1.wp.com/pusakamitrajasa.files.wordpress.com/2007/12/peta-jawa-timur.gif"
+    },
+    {
+      "id":1 ,
+      "kota": "Lamongan",
+      "jumlah": "1.344.165",
+      "kecamatan": 27 ,
+      "kelurahan": 12 ,
+      "image": "https://i1.wp.com/pusakamitrajasa.files.wordpress.com/2007/12/peta-jawa-timur.gif"
+    },
+    {
+      "id":2 ,
+      "kota": "Malang",
+      "jumlah": "2.654.448",
+      "kecamatan": 33 ,
+      "kelurahan": 12 ,
+      "image": "https://i1.wp.com/pusakamitrajasa.files.wordpress.com/2007/12/peta-jawa-timur.gif"
+    },
+    {
+      "id":3 ,
+      "kota": "Mojokerto",
+      "jumlah": "1.119.209",
+      "kecamatan": 18 ,
+      "kelurahan": 5 ,
+      "image": "https://i1.wp.com/pusakamitrajasa.files.wordpress.com/2007/12/peta-jawa-timur.gif"
+    },
+    {
+      "id":4 ,
+      "kota": "Pasuruan",
+      "jumlah": "1.605.969",
+      "kecamatan": 24 ,
+      "kelurahan": 24 ,
+      "image": "https://i1.wp.com/pusakamitrajasa.files.wordpress.com/2007/12/peta-jawa-timur.gif"
+    },
+    {
+      "id":5 ,
+      "kota": "Ponorogo",
+      "jumlah": "949.318",
+      "kecamatan": 21 ,
+      "kelurahan": 26 ,
+      "image": "https://i1.wp.com/pusakamitrajasa.files.wordpress.com/2007/12/peta-jawa-timur.gif"
+    },
+    {
+      "id":6 ,
+      "kota": "Probolinggo",
+      "jumlah": "1.152.537",
+      "kecamatan": 24 ,
+      "kelurahan": 25 ,
+      "image": "https://i1.wp.com/pusakamitrajasa.files.wordpress.com/2007/12/peta-jawa-timur.gif"
+    }
+  ],
+  "balis": [
+    {
+      "id":0 ,
+      "kota": "Badung",
+      "jumlah": 468.346 ,
+      "kecamatan": 6 ,
+      "kelurahan": 16 ,
+      "image": "https://4.bp.blogspot.com/-lcmkJeRXc4o/WugEu0c5POI/AAAAAAAAC_0/8PNwnz__wYAN52m8hSB9fjDfsuQPKi_lACLcBGAs/s1600/bandicam%2B2018-05-01%2B13-07-52-650.jpg"
+    },
+    {
+      "id":1 ,
+      "kota": "Bangli",
+      "jumlah": 264.945 ,
+      "kecamatan": 4 ,
+      "kelurahan": 4 ,
+      "image": "https://4.bp.blogspot.com/-lcmkJeRXc4o/WugEu0c5POI/AAAAAAAAC_0/8PNwnz__wYAN52m8hSB9fjDfsuQPKi_lACLcBGAs/s1600/bandicam%2B2018-05-01%2B13-07-52-650.jpg"  
+    },
+    {
+      "id":2 ,
+      "kota": "Buleleng",
+      "jumlah": 814.356 ,
+      "kecamatan": 9 ,
+      "kelurahan": 19 ,
+      "image": "https://4.bp.blogspot.com/-lcmkJeRXc4o/WugEu0c5POI/AAAAAAAAC_0/8PNwnz__wYAN52m8hSB9fjDfsuQPKi_lACLcBGAs/s1600/bandicam%2B2018-05-01%2B13-07-52-650.jpg"  
+    },
+    {
+      "id":3 ,
+      "kota": "Gianyar",
+      "jumlah": 492.757 ,
+      "kecamatan": 7 ,
+      "kelurahan": 6 ,
+      "image": "https://4.bp.blogspot.com/-lcmkJeRXc4o/WugEu0c5POI/AAAAAAAAC_0/8PNwnz__wYAN52m8hSB9fjDfsuQPKi_lACLcBGAs/s1600/bandicam%2B2018-05-01%2B13-07-52-650.jpg"  
+    },
+    {
+      "id":4,
+      "kota": "Karangasem",
+      "jumlah": 545.389 ,
+      "kecamatan": 8 ,
+      "kelurahan": 3 ,
+      "image": "https://4.bp.blogspot.com/-lcmkJeRXc4o/WugEu0c5POI/AAAAAAAAC_0/8PNwnz__wYAN52m8hSB9fjDfsuQPKi_lACLcBGAs/s1600/bandicam%2B2018-05-01%2B13-07-52-650.jpg"
+    },
+    {
+      "id":5,
+      "kota": "Denpasar",
+      "jumlah": 638.548 ,
+      "kecamatan": 4 ,
+      "kelurahan": 16 ,
+      "image": "https://4.bp.blogspot.com/-lcmkJeRXc4o/WugEu0c5POI/AAAAAAAAC_0/8PNwnz__wYAN52m8hSB9fjDfsuQPKi_lACLcBGAs/s1600/bandicam%2B2018-05-01%2B13-07-52-650.jpg"
+    }
+  ]
+}
