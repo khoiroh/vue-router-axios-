@@ -1,7 +1,6 @@
 <template>
   <div>
      <h2>DKI JAKARTA</h2>
-     <h2>DKI JAKARTA</h2>
      <hr>
        <img class="image" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Jakarta_Skyline_Part_2.jpg" alt="" >  
        <p>Jakarta memiliki luas sekitar 664,01 km² (lautan: 6.977,5 km²),dengan penduduk berjumlah 10.562.088 jiwa (2020).
